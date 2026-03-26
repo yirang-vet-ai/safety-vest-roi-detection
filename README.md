@@ -1,3 +1,5 @@
+<img src="cover.png" width="70%">
+
 # Safety Vest ROI Detection
 
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE)
@@ -150,3 +152,4 @@ The detector uses fluorescent color extraction rather than a deep learning objec
 ## License
 
 This project is licensed under the Apache License 2.0. See the `LICENSE` file for details.
+All images and visual materials in this repository are protected by copyright. Unauthorized use, reproduction, or distribution is prohibited.
